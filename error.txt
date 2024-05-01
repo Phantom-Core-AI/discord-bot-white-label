@@ -1,0 +1,48 @@
+{
+Nov 8 12:41:33 PM    type: 'intent',
+Nov 8 12:41:33 PM    payload: {
+Nov 8 12:41:33 PM      intent: { name: 'live_answer' },
+Nov 8 12:41:33 PM      query: 'How many minimum pips should i make',
+Nov 8 12:41:33 PM      entities: []
+Nov 8 12:41:33 PM    }
+Nov 8 12:41:33 PM  }
+Nov 8 12:41:33 PM  943835817569316884
+Nov 8 12:41:33 PM  654a4984100b6a3f0dce4368.158Wednesday1699443274894
+Nov 8 12:41:33 PM  ==================
+Nov 8 12:42:33 PM  voiceflow interaction error
+Nov 8 12:42:33 PM  Request failed with status code 520
+
+const response = await axios.post(
+            `${process.env.VOICEFLOW_API_URL}/state/user/${user}/interact`,
+            {
+                action: action,
+                config: {
+                    tts: false,
+                    stripSSML: true,
+                    stopAll: true,
+                    excludeTypes: ["path", "debug", "flow", "block"],
+                },
+            },
+            {
+                headers: {
+                    Authorization: process.env.VOICEFLOW_API_KEY,
+                    "Content-Type": "application/json",
+                    sessionid: session,
+                },
+            }
+        );
+
+        {
+  type: 'intent',
+   payload: {
+    intent: { name: 'live_answer' },
+     query: 'How many minimum pips should i make',
+     entities: []
+    }
+  }
+
+Hi support, how do you define ‘same trade idea’? \n' +
+'\n' +
+'So, if you have two accounts, you cannot trade the same pair in the same direction even if the trades are not executed (manually of course) at the same time? But it doesn’t make sense to buy on one account and sell on another, so are we only allowed to trade different pairs on each account so that it is not considered as ‘same trade idea’? \n' +
+'\n' +
+'Thank you.',

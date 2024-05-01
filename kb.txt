@@ -1,0 +1,600 @@
+Q: What is Funding Pips' stance on trader growth?
+A: Funding Pips fosters trader growth from Student to Master, offering a two-phase evaluation and funding for proven talents.
+
+Q: How much can traders access for trading with Funding Pips?
+A: Up to $300,000 is available for traders to manage.
+
+Q: What freedoms do traders have at Funding Pips?
+A: Traders can use Expert Advisors (EAs), hold positions during news or weekends, and trade with full leverage.
+
+Q: Is there a time limit for trading at Funding Pips?
+A: There's no set minimum or maximum trading days requirement.
+
+Q: What does the Scaling Plan entail?
+A: The plan increases account size and loss limits, allowing trade up to $2 million, with on-demand payouts and bonuses.
+
+Q: How does Funding Pips handle payouts?
+A: Payouts are 5-day based with an 80%-90% profit split, via bank or crypto.
+
+Q: What are the Evaluation Stage details?
+A: No set trading day limits, with a focus on meeting profit targets and adhering to trading rules.
+
+Q: How is Maximum Daily Loss calculated?
+A: It's based on a percentage of daily starting equity or balance, not to fall below a certain limit.
+
+Q: What are the Maximum Loss Limit details?
+A: The balance can't fall below 10% of the initial account size.
+
+Q: What leverage and spreads does Funding Pips offer?
+A: 1:100 leverage for FX, varying for other instruments, with RAW Spreads.
+
+Q: Are there profit targets for master accounts?
+A: No profit targets for master accounts.
+
+Q: What commissions does Funding Pips charge?
+A: $2 per lot for Forex and Metals; none for Crypto, Indices, Oil.
+
+Q: Why are Trading Objectives important?
+A: They assess a trader's discipline and consistency.
+
+Q: What trading platform is used?
+A: MT5, under Black Bull Group Limited.
+
+Q: What's the cookie and privacy policy?
+A: Cookies improve site use; details are in the Privacy Policy.
+
+Q: What trader qualities does Funding Pips seek?
+A: Consistency, risk management, and genuine trading skills over "bounty hunting."
+
+Q: What's the website's cookie policy?
+A: Cookies are used for navigation, usage analysis, and marketing.
+
+Q: Where is privacy information available?
+A: In the website's Privacy Policy section.
+
+Q: What's involved in the Evaluation course?
+A: Two-phase skill assessment, with risk management requirements.
+
+Q: What follows Phase 2's profit target achievement?
+A: A Risk Team review within two working days.
+
+Q: What if evaluation trading rules are breached?
+A: Immediate closure of positions and account termination.
+
+Q: What's required in Phase I?
+A: Achieving an 8% profit target without rule breaches.
+
+Q: What does Phase II entail?
+A: Confirming Phase I results with a 5% profit target.
+
+Q: What are the Daily and Maximum Loss Limits?
+A: 5% and 10% of account size respectively, not to be breached.
+
+Q: Can trades be held during news and weekends?
+A: Yes, under certain conditions.
+
+Q: What's allowed in trading strategies?
+A: EAs for trade/risk management; exploiting platform inefficiencies is banned.
+
+Q: What EAs are permitted?
+A: Only trade or risk manager EAs; others lead to penalties.
+
+Q: What's in the scaling plan for skillful traders?
+A: Capital increases and higher loss limits at each level.
+
+Q: Describe the Launchpad Level.
+A: Initial stage with a 20% capital scale-up after meeting targets and payouts.
+
+Q: What's the Ascender Level about?
+A: A 30% capital increase after more payouts and profit, with raised drawdown limits.
+
+Q: Define the Trailblazer Stage.
+A: A 40% capital boost for traders showing advanced skills and profit.
+
+Q: What is the Hot Seat level?
+A: Elite status with doubled balance, personal support, and higher capital access.
+
+Q: Are there bonuses in the Hot Seat?
+A: Yes, monthly bonuses based on the initial account size.
+
+
+Q: Scale-up basis in accounts?
+A: Scale-up is based on initial, not merged account size.
+
+Q: Capital allocation in scaling?
+A: Based on risk-adjusted performance.
+
+Q: Affiliate Program?
+A: Referral system for onboarding traders with benefits.
+
+Q: Referral benefits?
+A: 5% commission for referrer; 5% discount for referee on first account purchase.
+
+Q: Tracking earnings?
+A: Via app dashboard.
+
+Q: Promotion methods?
+A: Any methods with referral link.
+
+Q: Team trader emphasis?
+A: Consistency and risk management.
+
+Q: News trading during evaluation?
+A: No restrictions on news trading or weekend holds.
+
+Q: Master account trades during news/weekend?
+A: Allowed.
+
+Q: High-impact news event trades?
+A: Trades around high-impact news times not counted; closed but no violation incurred.
+
+Q: Indicating high-impact news events?
+A: Marked in red on News Calendar from Forex Factory.
+
+Q: News trading rule breaches?
+A: Trader responsible if news trading rules lead to loss limit breach.
+
+Q: Financial instruments and news awareness?
+A: Consider both instruments in a pair regarding news impact.
+
+Q: Indices and news relation?
+A: Affected by their country's currency news.
+
+Q: All-day news events trading?
+A: Permissible without violation.
+
+Q: Funding Pips' offer to traders?
+A: Support for profitable traders to advance.
+
+Q: Age requirement for Funding Pips?
+A: Minimum 18 years old.
+
+Q: Geographic restrictions for Funding Pips?
+A: No new clients from Vietnam, Pakistan, UAE.
+
+Q: Desired trader qualities for Funding Pips?
+A: Consistency, risk management.
+
+Q: Website cookies usage?
+A: Enhances navigation, usage analysis, marketing.
+
+Q: Information on cookies?
+A: In Privacy Policy on website.
+
+Q: Company base?
+A: Dubai, UAE.
+
+Q: Company's mission?
+A: Provide best services, achieve dreams collectively.
+
+Q: Funding Pips credibility?
+A: Yes, Dubai-based with a collective dream mission.
+
+Q: Master account profit target?
+A: No set target.
+
+Q: Master account risk limits?
+A: 5% daily and 10% maximum loss limit.
+
+Q: Calculating Maximum Daily Loss?
+A: Off the higher of equity or balance at day start.
+
+Q: Maximum Loss Limit?
+A: 10% of initial account size.
+
+Q: Master account news/weekend trade holds?
+A: Permitted.
+
+Q: Trades around high impact news?
+A: Profit not counted if opened around specified times, closed automatically, no violation.
+
+Q: Prohibited trading activities?
+A: Exploiting platform inefficiencies, toxic flow, unauthorized account management/copy trading.
+
+Q: Stance on EAs?
+A: Allowed for trade/risk management, not others.
+
+Q: Slippage explanation?
+A: Execution at next available price when desired price is unavailable.
+
+Q: Factors increasing slippage?
+A: Larger lot sizes, volatile market times.
+
+Q: What's the scale-up basis at Funding Pips?
+A: Scale-ups are based on the initial account size.
+
+Q: How does Funding Pips allocate scaling capital?
+A: Capital is given based on risk-adjusted performance.
+
+Q: What's the Affiliate Program?
+A: It's a referral opportunity with rewards for each successful referral.
+
+Q: What are referral benefits?
+A: Referrers earn a 5% commission; referees get a 5% discount.
+
+Q: How can I track referrals?
+A: Through an app dashboard.
+
+Q: How do I promote referrals?
+A: With any method using a unique link.
+
+Q: What's the team's trading ethos?
+A: They value consistency, risk management, and seek genuine traders.
+
+Q: News trading rules during evaluation?
+A: No restrictions on news trading or weekend holds.
+
+Q: Master account news trading?
+A: Allowed.
+
+Q: Are profits counted around high-impact news?
+A: No, such profits aren't counted, and related trades are auto-closed without violations.
+
+Q: How to spot high-impact news?
+A: They're marked in red in the News Calendar.
+
+Q: Responsibility for news trading breaches?
+A: The trader is responsible for any violations.
+
+Q: News impact on different instruments?
+A: Currency news affects related pairs and indices.
+
+Q: Trading all-day news events?
+A: Allowed and won't result in violations.
+
+Q: Funding Pips' offer for skilled traders?
+A: They provide advancement support for profitable traders.
+
+Q: Age requirement for Funding Pips?
+A: Must be 18 or older.
+
+Q: Geographic restrictions?
+A: No clients from Vietnam, Pakistan, or UAE.
+
+Q: What kind of traders does Funding Pips seek?
+A: They look for traders who value discipline over quick wins.
+
+Q: What about cookie use?
+A: Cookies are used for site enhancement and analytics.
+
+Q: Where to read about cookie use?
+A: In the website's Privacy Policy.
+
+Q: Funding Pips' base and mission?
+A: Based in Dubai, aiming to provide the best services for retail traders.
+
+Q: Master account profit target?
+A: No set target.
+
+Q: Master account risk limits?
+A: 5% daily, 10% maximum loss limit.
+
+Q: Maximum Daily Loss calculation?
+A: Based on the higher of equity or balance at day's start.
+
+Q: What's the Maximum Loss Limit?
+A: Can't drop below 10% of the initial account size.
+
+Q: Master account trade holds?
+A: Allowed for news and weekends.
+
+Q: Trades around high-impact news?
+A: Profits from specific times not counted; closed trades don't lead to violations.
+
+Q: Prohibited activities?
+A: Exploiting MetaTrader inefficiencies, unauthorized account management, or copy trading.
+
+Q: Stance on EAs?
+A: Only trade or risk management EAs allowed.
+
+Q: What is slippage?
+A: Orders filled at the next price when the exact price isn't available.
+
+Q: What increases slippage risk?
+A: Higher lot sizes and volatile markets.
+
+Q: What are Funding Pips' discounts for failing phases?
+A: 10% for failing Phase 1, 15% for Phase 2, and 20% for the Master/Funded level.
+
+Q: Discount code validity and application?
+A: Valid for 7 days, applicable to all account sizes.
+
+Q: Daily loss rule?
+A: You can't lose more than the set daily limit, which resets at midnight CE(S)T.
+
+Q: Elite Trader privileges?
+A: Double balance, support, research tools, high profit split, large capital access, tailored conditions, and monthly bonuses.
+
+Q: Do Elite Traders receive monthly bonuses?
+A: Yes, based on account size, up to $500.
+
+Q: How does Funding Pips use cookies?
+A: For site functionality and user experience, detailed in their Privacy Policy.
+
+Q: What's next after passing Phase 1?
+A: Account status updates and email notification.
+
+Q: How to get Phase 2 details?
+A: Wait 24 hours post-Phase 1 for email with credentials.
+
+Q: Breaching trading objectives consequences?
+A: Immediate trade closures, account set to view-only.
+
+Q: Is there a deadline for evaluations?
+A: No time limit; trade until profit targets are met.
+
+Q: Phase 2 profit target?
+A: 5% profit target to advance.
+
+Q: After Phase 2, what's the next step?
+A: Verification of results and opportunity to trade company capital.
+
+Q: What's the cookie policy's implication?
+A: Site usage consent to cookies; Privacy Policy for details.
+
+Q: Master trader benefits with Funding Pips?
+A: Up to 90% profit share, no loss accountability.
+
+Q: How does Funding Pips help enhance trading skills?
+A: Through insightful account analysis dashboards.
+
+Q: Fee refund for passing evaluations?
+A: Yes, with the fourth profit split.
+
+Q: Account sizes and trading limit after evaluation?
+A: Accounts from $25,000 to $100,000, up to $300,000 combined.
+
+Q: Rules on copying trades for evaluations?
+A: No copying trades to pass evaluations.
+
+Q: Master/Funded account options post-evaluation?
+A: Combine into one or keep separate; email for merging.
+
+Q: Scaling plan and Hot Seat program benefits?
+A: 90% profit split, trade up to $2M.
+
+Q: Cookie policy on Funding Pips?
+A: Agreed usage for enhanced site functions, detailed in Privacy Policy.
+
+Q: "Student" Phase 1 goal?
+A: Reach an 8% profit target to progress.
+
+Q: Time to get Phase 2 account post-Phase 1?
+A: 24 hours after passing Phase 1.
+
+Q: What's the Maximum Loss Limit rule?
+A: Equity/balance can't fall below 10% of initial account size.
+
+Q: Result of dipping below Maximum Loss Limit?
+A: Account closure.
+
+Q: Nature of the Master/funded account?
+A: DEMO, linked to risk management mainframe.
+
+Q: DEMO account advantage?
+A: Simplifies compliance, no trade/fund license needed.
+
+Q: Multiple challenge sign-ups and funded capital limit?
+A: Yes, but not exceeding $300,000 total.
+
+Q: Copying trades policy?
+A: No copying allowed for passing evaluations.
+
+Q: Account merging process?
+A: Email support or ticket through helpdesk.
+
+Q: Trading day definition in FP Evaluation?
+A: Any day with an open position.
+
+Q: Minimum trading days in FP Evaluation?
+A: No minimum required.
+
+Q: Maximum trading days in FP Evaluation?
+A: No maximum; take your time.
+
+Q: Post-evaluation KYC process?
+A: Document verification and approval via dashboard.
+
+Q: Identity verification documents?
+A: Government ID, driver's license, residence permit, or passport.
+
+Q: Proof of Address documents?
+A: Utility bills, bank statements, government-issued proofs.
+
+Q: Clearing Metatrader 5 cache steps?
+A: iOS: Metatrader 5 App > Settings > Clear All Caches. Android: Settings > Apps > MetaTrader 5 > Clear Caches & Data.
+
+Q: Tradable instruments and spreads?
+A: Forex, Crypto, Indices, Metals, Energies with RAW spreads.
+
+Q: Commission rates?
+A: $2 per lot for Forex, Metals; none for Crypto, Indices, Oil.
+
+Q: Leverage options?
+A: Varies by instrument, up to 1:100 for Forex.
+
+Q: Lot size restrictions per click?
+A: No overall restrictions, but one-click trade limits apply.
+
+Q: Payout request process?
+A: Via dashboard form, triggering account view-only mode until processed.
+
+Q: Minimum payout amount?
+A: 1% of initial balance including platform split.
+
+Q: Payout processing methods and times?
+A: Bank Transfer, Crypto, from 10 am to 3 pm Dubai time.
+
+Q: Trading freedoms on Funding Pips?
+A: Use EAs, trade during news and weekends without lot size restrictions.
+
+Q: Prohibited trading activities?
+A: Activities exploiting MetaTrader inefficiencies and unauthorized third-party management.
+
+Q: Consequences for prohibited activities?
+A: Account termination, payout denial, closure.
+
+Q: Third-party EA policy?
+A: Only trade or risk manager EAs allowed; others lead to account closure.
+
+Q: Focus on trader skills?
+A: Unique skills and strategies; no cheating to success.
+
+Q: Commission for trading?
+A: $2 per lot for Forex, Metals; Crypto, Indices, Oil free.
+
+Q: Can I engage in crypto trading over the weekend at Funding Pips, and can I hold my trades during this period?
+A: Crypto trading and all other assets are not allowed over the weekend at Funding Pips. However, you are permitted to hold your trades over the weekend.
+
+
+Q: Which countries are restricted from signing up as new clients with Funding Pips?
+A: Funding Pips does not accept new clients from Vietnam and the United Arab Emirates.
+
+
+Q: How can I test the raw spreads on Funding Pips using MetaTrader 5?
+A: You can use the following account logins for MetaTrader 5: Username 702516, Investor password Sfpr2_Sf-c, Server BlackBullMarkets-FPDemo to access and test our raw spreads.
+
+Q: What is Funding Pips and how is it designed for traders?
+A: Funding Pips is a platform built by traders for traders. It provides an evaluation process, trading conditions, objectives, and rules tailored to offer the best experience for traders. The focus is on cultivating consistent and disciplined trading for mutual success.
+
+Q: Can you elaborate on the importance of discipline and consistency in trading with Funding Pips?
+A: Absolutely. Discipline and consistency are key. Trading is viewed as a journey with two essential phases: the student and the practitioner. Rushing is discouraged, and being dynamic in adapting to market changes is crucial for success.
+
+Q: What is the evaluation process, and what are the rules for trading behavior?
+A: The evaluation consists of two phases – student and practitioner. In the student phase, achieving an 8% profit target without breaching rules is required. The practitioner phase involves reaching a 5% profit target without rule violations. Breaching any rules results in immediate closure of positions and an account review.
+
+Q: What are the maximum daily and overall loss limits during the evaluation and funded phases?
+A: The daily loss limit is 5% of starting equity or balance. The overall loss limit is set at 10% of the initial account size. These limits ensure risk management and responsible trading.
+
+Q: Can I hold trades during news events and over the weekend?
+A: Yes, during the evaluation stage, you are allowed to hold trades over the weekend and trade during news events. In the funded phase, holding trades during news and weekends is permitted, with certain restrictions around high-impact news events to prevent abuse.
+
+Q: What is the permitted trading strategy on Funding Pips?
+A: Traders have flexibility in their trading strategies. They can use EAs, hold trades during news, over the weekend, and trade lot sizes based on leverage. However, activities exploiting MetaTrader inefficiencies or engaging in prohibited trading practices will result in account termination.
+
+Q: What instruments can I trade on Funding Pips, and what are the associated costs?
+A: Tradable instruments include Forex, Crypto, Indices, Metals, and Energies with RAW spreads. There's a $2 commission per standard lot round turn, except for Crypto, Indices, and Oil, which are commission-free.
+
+Q: Can I change my account credentials, and what happens if I do?
+A: Changing account credentials is strictly prohibited. Any such changes will result in account suspension. Funding Pips values skilled traders and any violation of rules leads to account closure.
+
+Q: How are payouts and profit splits structured on Funding Pips?
+A: Traders can request a payout every 5th day after the first executed trade with an 80% profit split. Upon achieving the Hot Seat status, traders receive On-Demand payouts with a 90% profit split. Monthly bonuses are provided based on the initial account size.
+
+Q: Is there a scaling plan for successful traders on Funding Pips?
+A: Yes, there's a scaling plan based on trader performance. Different levels – Novice, Intermediate, Advanced, and Elite – offer increased capital allocation and additional benefits as traders progress.
+
+Q: Can accounts be merged on Funding Pips?
+A: Yes, traders can trade up to $300,000 combined. However, each evaluation phase must be traded individually, and merging master accounts requires contacting support.
+
+Q: What is the refund policy for traders who pass the evaluation phases?
+A: Traders who pass Phase 1 and Phase 2 receive a refund of their fees with their 4th payout.
+
+Q: What happens if a trading account remains inactive for 30 days?
+A: Any trading account inactive for 30 days will be automatically suspended.
+
+Q: How is the IP address monitored at different stages of the trading process?
+A: IP addresses used during the evaluation, student, practitioner, and master stages must match. Any change may prompt confirmation from the Risk Team to ensure account security.
+
+
+Q: Has the stop loss rule been removed on Funding Pips?
+A: Yes, the stop loss rule has been removed. Traders are no longer required to place a stop loss within 60 seconds of executing a trade on the master account.
+
+Q: What changes have been made regarding the griding rule and layering rule on Funding Pips?
+A: The griding rule and layering rule have been removed. Traders can now add a fourth position, even when others are in drawdown. Layering, the stacking of trades during a drawdown at predetermined levels, is allowed based on the individual's strategy, with a calculated limit.
+
+Q: What is the guideline for Layering/Grid on Funding Pips?
+A: To avoid confusion, Funding Pips uses the guideline that allows traders to engage in layering and griding strategies. These involve stacking trades or adding positions, especially during drawdowns, based on the trader's strategy.
+
+Q: Has the Martingale rule been removed on Funding Pips?
+A: Yes, the Martingale rule has been removed. The Martingale strategy, involving increasing risk after a loss, is no longer prohibited. Traders are now free to use this strategy, keeping in mind its potential risks.
+
+Q: What is the Martingale strategy, and why was it previously prohibited?
+A: The Martingale strategy involves increasing risk after a loss, based on the probability that stacked trades during a drawdown may work in favor of the trader if the trend reverses. It was previously prohibited on Funding Pips due to its potential risks, but it is now allowed.
+
+Q: Can traders now use grid, martingale, and layering strategies in Funding Pips challenges?
+A: Yes, traders are now allowed to use grid, martingale, and layering strategies in Funding Pips challenges. These strategies were previously restricted but have been removed, providing more flexibility to traders.
+
+Q: Are there any specific guidelines or limits for layering and griding on Funding Pips?
+A: Funding Pips allows traders to engage in layering and griding strategies, but it is emphasized that these should be based on individual strategies. There are no specific guidelines mentioned, giving traders the freedom to use these strategies within their calculated limits.
+
+Q: How will the removal of these rules affect the evaluation and payout process on Funding Pips?
+A: The removal of the stop loss, griding, layering, and Martingale rules provides traders with more flexibility in their trading strategies during challenges. This can impact the evaluation and payout process positively, allowing for a broader range of trading approaches.
+
+Q: Are there any other notable changes to the trading rules on Funding Pips?
+A: The mentioned removals of rules related to stop loss, griding, layering, and Martingale are the key changes. Traders are encouraged to review the updated rules and adapt their strategies accordingly.
+
+Q: What is the leverage offered by FundingPips for different trading instruments?
+A: FundingPips provides varying leverage for different trading instruments. The leverage for Forex is 1:100, Metals 1:30, Indices 1:20, Energies 1:10, and Crypto 1:2. Additionally, Forex and Metals have a $2 commission per lot, while Crypto, Indices, and Oil are commission-free.
+
+Q: Are there any restrictions on lot sizes when trading with FundingPips?
+A: There are no lot size restrictions at all. Traders can open as many lots as the margin/leverage allows for. However, there are limits on the lot size that can be opened in one click/trade to avoid extreme market conditions for higher volumes. Metatrader will not allow higher lot sizes in one click, but there is no restriction on the total number of lots that can be open at any given time.
+
+Q: What are the maximum lots in one click for different instruments and leverages?
+A: The maximum lots in one click vary based on the instrument and leverage. For Forex with 1:100 leverage, it's 20 lots; Metals with 1:30 leverage is 10 lots; Indices with 1:20 leverage is 10 lots; Energies with 1:10 leverage is 100 lots; and Crypto with 1:2 leverage varies from 10 to 1000 lots depending on the specific cryptocurrency.
+
+Q: Can you provide information on the contract sizes per lot for different trading instruments?
+A: Certainly. Contract sizes per lot vary per instrument type. For example, the contract size for Forex currencies is 100,000, for Silver (XAGUSD) it's 5,000, for the Nikkei 225 Cash Index (JP225) it's 500, and so on. The specific contract sizes are detailed in the provided table.
+
+Q: How does FundingPips handle extreme market conditions for higher volumes?
+A: While there are no restrictions on the total number of lots that can be open at any given time, FundingPips has limits on the lot size that can be opened in one click or trade. This is to prevent extreme market conditions for higher volumes. Metatrader will not allow higher lot sizes in one click.
+
+Q: Are there commissions for trading Crypto, Indices, and Oil on FundingPips?
+A: No, Crypto, Indices, and Oil trading on FundingPips are commission-free. Traders can engage in these markets without incurring additional commission costs.
+
+Q: What are the leverage and contract size details for specific cryptocurrencies like BTCUSD, ETHUSD, and XRPUSD on FundingPips?
+A: BTCUSD has a leverage of 1:2 with a maximum of 10 lots in one click. ETHUSD and XRPUSD also have a 1:2 leverage, with maximum lots in one click being 100 for ETHUSD and 1000 for XRPUSD.
+
+Q: Can traders choose their lot sizes without restrictions on FundingPips?
+A: Traders have the flexibility to choose lot sizes based on their margin/leverage. While there are no restrictions on the total number of lots open, there are limits on lot sizes in one click to manage extreme market conditions for higher volumes.
+
+Q: Is there any restriction or violation on the number of lots a trader can have open at any given time?
+A: No, there is no restriction or violation on the total number of lots a trader can have open at any given time. The restrictions on lot sizes apply per trade or click to manage extreme market conditions.
+
+Q: Is there an age restriction for trading with FundingPips?
+A: Yes, anyone under 18 is not allowed to trade with FundingPips.
+
+Q: Are magic keys allowed on FundingPips?
+A: Yes, magic keys are allowed on FundingPips.
+
+Q: What are the conditions for trading on FundingPips?
+A: The conditions are simulated live market conditions. Using higher lot sizes increases the chance of slippage, especially during volatile market moments.
+
+Q: What is slippage?
+A: Slippage occurs when your order isn't precisely filled due to the absence of a matching order at that specific price point in the order book. As a result, your trade will be executed at the closest available price.
+
+Q: I cannot login to my evaluation challenge, what do I do?
+A: If you're unable to log in, start by reinstalling the application and manually entering the login credentials. Double-check the password, and do not use the investor password. Ensure you are using the correct credentials found in your Dashboard -> Credentials. If "BlackBullMarkets-FPDemo" does not appear in your server list, follow the provided steps for adding it. Clearing the cache may also solve the issue.
+
+Q: How do I install MetaTrader 5 (MT5) for FundingPips?
+A: Download MT5 from the provided links based on your operating system: Windows, Mac, IOS, Android, Web. Refer to the video for additional guidance.
+
+Q: Can I trade over the weekend with FundingPips?
+A: Yes, you can hold your trades over the weekend. However, crypto trading and all other assets are not allowed over the weekend.
+
+Q: Are there specific conditions for traders in Pakistan on FundingPips?
+A: Yes, Funding Pips has unbanned Pakistan under specific conditions, allowing a maximum allocation of $50,000 and accepting cryptocurrency payments only.
+
+Q: What is the Maximum Daily Loss Rule on FundingPips?
+A: The Maximum Daily Loss Rule determines the maximum amount you're allowed to lose each day. It's calculated as a percentage of the starting equity or balance for the day, using the higher value between equity and balance. The daily maximum loss resets at 00:00 CEST/server time each day.
+
+Q: When is the support team available?
+A: The support team operates 24 hours during weekdays, but responses may be slower on weekends.
+
+Q: Can you provide details about the Funding Pips Trading Competition?
+A: Funding Pips is hosting a Trading Competition with $5,000 in cash and $575,000 worth of evaluations. Rules include a 10% Maximum Loss Limit, 5% Maximum Daily Loss Limit, no EAs allowed, a limit of 5 positions open at any given time, and one account per person. Prizes range from cash to evaluations, and there's room for 5000 participants.
+
+Q: Can I get a refund on FundingPips?
+A: Yes, you can get a refund once you've received your 4th payout.
+
+Q: How can I reset my password on FundingPips?
+A: You can reset your password in your FundingPips dashboard.
+
+Q: Which broker does Funding Pips use?
+A: Funding Pips uses BlackBull Markets as their broker.
+
+Q: Why did Funding Pips choose BlackBull Markets?
+A: BlackBull Markets has been ranked as the #1 forex broker in execution speed by CompareForexBrokers.com, making it an optimal choice for Funding Pips.
+
+Q: Can I choose a different broker while participating in Funding Pips?
+A: No, participants in Funding Pips are required to use BlackBull Markets as their designated broker for trading activities.

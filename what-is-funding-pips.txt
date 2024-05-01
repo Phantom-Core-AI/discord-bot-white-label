@@ -1,0 +1,300 @@
+Q: What is Funding Pips' stance on trader growth?
+A: Funding Pips fosters trader growth from Student to Master, offering a two-phase evaluation and funding for proven talents.
+
+Q: How much can traders access for trading with Funding Pips?
+A: Up to $300,000 is available for traders to manage.
+
+Q: What freedoms do traders have at Funding Pips?
+A: Traders can use Expert Advisors (EAs), hold positions during news or weekends, and trade with full leverage.
+
+Q: Is there a time limit for trading at Funding Pips?
+A: There's no set minimum or maximum trading days requirement.
+
+Q: What does the Scaling Plan entail?
+A: The plan increases account size and loss limits, allowing trade up to $2 million, with on-demand payouts and bonuses.
+
+Q: How does Funding Pips handle payouts?
+A: Payouts are 5-day based with an 80%-90% profit split, via bank or crypto.
+
+Q: What are the Evaluation Stage details?
+A: No set trading day limits, with a focus on meeting profit targets and adhering to trading rules.
+
+Q: How is Maximum Daily Loss calculated?
+A: It's based on a percentage of daily starting equity or balance, not to fall below a certain limit.
+
+Q: What are the Maximum Loss Limit details?
+A: The balance can't fall below 10% of the initial account size.
+
+Q: What leverage and spreads does Funding Pips offer?
+A: 1:100 leverage for FX, varying for other instruments, with RAW Spreads.
+
+Q: Are there profit targets for master accounts?
+A: No profit targets for master accounts.
+
+Q: What commissions does Funding Pips charge?
+A: $2 per lot for Forex and Metals; none for Crypto, Indices, Oil.
+
+Q: Why are Trading Objectives important?
+A: They assess a trader's discipline and consistency.
+
+Q: What trading platform is used?
+A: MT5, under Black Bull Group Limited.
+
+Q: What's the cookie and privacy policy?
+A: Cookies improve site use; details are in the Privacy Policy.
+
+Q: What trader qualities does Funding Pips seek?
+A: Consistency, risk management, and genuine trading skills over "bounty hunting."
+
+Q: What's the website's cookie policy?
+A: Cookies are used for navigation, usage analysis, and marketing.
+
+Q: Where is privacy information available?
+A: In the website's Privacy Policy section.
+
+Q: What's involved in the Evaluation course?
+A: Two-phase skill assessment, with risk management requirements.
+
+Q: What follows Phase 2's profit target achievement?
+A: A Risk Team review within two working days.
+
+Q: What if evaluation trading rules are breached?
+A: Immediate closure of positions and account termination.
+
+Q: What's required in Phase I?
+A: Achieving an 8% profit target without rule breaches.
+
+Q: What does Phase II entail?
+A: Confirming Phase I results with a 5% profit target.
+
+Q: What are the Daily and Maximum Loss Limits?
+A: 5% and 10% of account size respectively, not to be breached.
+
+Q: Can trades be held during news and weekends?
+A: Yes, under certain conditions.
+
+Q: What's allowed in trading strategies?
+A: EAs for trade/risk management; exploiting platform inefficiencies is banned.
+
+Q: What EAs are permitted?
+A: Only trade or risk manager EAs; others lead to penalties.
+
+Q: What's in the scaling plan for skillful traders?
+A: Capital increases and higher loss limits at each level.
+
+Q: Describe the Launchpad Level.
+A: Initial stage with a 20% capital scale-up after meeting targets and payouts.
+
+Q: What's the Ascender Level about?
+A: A 30% capital increase after more payouts and profit, with raised drawdown limits.
+
+Q: Define the Trailblazer Stage.
+A: A 40% capital boost for traders showing advanced skills and profit.
+
+Q: What is the Hot Seat level?
+A: Elite status with doubled balance, personal support, and higher capital access.
+
+Q: Are there bonuses in the Hot Seat?
+A: Yes, monthly bonuses based on the initial account size.
+
+
+Q: Scale-up basis in accounts?
+A: Scale-up is based on initial, not merged account size.
+
+Q: Capital allocation in scaling?
+A: Based on risk-adjusted performance.
+
+Q: Affiliate Program?
+A: Referral system for onboarding traders with benefits.
+
+Q: Referral benefits?
+A: 5% commission for referrer; 5% discount for referee on first account purchase.
+
+Q: Tracking earnings?
+A: Via app dashboard.
+
+Q: Promotion methods?
+A: Any methods with referral link.
+
+Q: Team trader emphasis?
+A: Consistency and risk management.
+
+Q: News trading during evaluation?
+A: No restrictions on news trading or weekend holds.
+
+Q: Master account trades during news/weekend?
+A: Allowed.
+
+Q: High-impact news event trades?
+A: Trades around high-impact news times not counted; closed but no violation incurred.
+
+Q: Indicating high-impact news events?
+A: Marked in red on News Calendar from Forex Factory.
+
+Q: News trading rule breaches?
+A: Trader responsible if news trading rules lead to loss limit breach.
+
+Q: Financial instruments and news awareness?
+A: Consider both instruments in a pair regarding news impact.
+
+Q: Indices and news relation?
+A: Affected by their country's currency news.
+
+Q: All-day news events trading?
+A: Permissible without violation.
+
+Q: Funding Pips' offer to traders?
+A: Support for profitable traders to advance.
+
+Q: Age requirement for Funding Pips?
+A: Minimum 18 years old.
+
+Q: Geographic restrictions for Funding Pips?
+A: No new clients from Vietnam, Pakistan, UAE.
+
+Q: Desired trader qualities for Funding Pips?
+A: Consistency, risk management.
+
+Q: Website cookies usage?
+A: Enhances navigation, usage analysis, marketing.
+
+Q: Information on cookies?
+A: In Privacy Policy on website.
+
+Q: Company base?
+A: Dubai, UAE.
+
+Q: Company's mission?
+A: Provide best services, achieve dreams collectively.
+
+Q: Funding Pips credibility?
+A: Yes, Dubai-based with a collective dream mission.
+
+Q: Master account profit target?
+A: No set target.
+
+Q: Master account risk limits?
+A: 5% daily and 10% maximum loss limit.
+
+Q: Calculating Maximum Daily Loss?
+A: Off the higher of equity or balance at day start.
+
+Q: Maximum Loss Limit?
+A: 10% of initial account size.
+
+Q: Master account news/weekend trade holds?
+A: Permitted.
+
+Q: Trades around high impact news?
+A: Profit not counted if opened around specified times, closed automatically, no violation.
+
+Q: Prohibited trading activities?
+A: Exploiting platform inefficiencies, toxic flow, unauthorized account management/copy trading.
+
+Q: Stance on EAs?
+A: Allowed for trade/risk management, not others.
+
+Q: Slippage explanation?
+A: Execution at next available price when desired price is unavailable.
+
+Q: Factors increasing slippage?
+A: Larger lot sizes, volatile market times.
+
+Q: What's the scale-up basis at Funding Pips?
+A: Scale-ups are based on the initial account size.
+
+Q: How does Funding Pips allocate scaling capital?
+A: Capital is given based on risk-adjusted performance.
+
+Q: What's the Affiliate Program?
+A: It's a referral opportunity with rewards for each successful referral.
+
+Q: What are referral benefits?
+A: Referrers earn a 5% commission; referees get a 5% discount.
+
+Q: How can I track referrals?
+A: Through an app dashboard.
+
+Q: How do I promote referrals?
+A: With any method using a unique link.
+
+Q: What's the team's trading ethos?
+A: They value consistency, risk management, and seek genuine traders.
+
+Q: News trading rules during evaluation?
+A: No restrictions on news trading or weekend holds.
+
+Q: Master account news trading?
+A: Allowed.
+
+Q: Are profits counted around high-impact news?
+A: No, such profits aren't counted, and related trades are auto-closed without violations.
+
+Q: How to spot high-impact news?
+A: They're marked in red in the News Calendar.
+
+Q: Responsibility for news trading breaches?
+A: The trader is responsible for any violations.
+
+Q: News impact on different instruments?
+A: Currency news affects related pairs and indices.
+
+Q: Trading all-day news events?
+A: Allowed and won't result in violations.
+
+Q: Funding Pips' offer for skilled traders?
+A: They provide advancement support for profitable traders.
+
+Q: Age requirement for Funding Pips?
+A: Must be 18 or older.
+
+Q: Geographic restrictions?
+A: No clients from Vietnam, Pakistan, or UAE.
+
+Q: What kind of traders does Funding Pips seek?
+A: They look for traders who value discipline over quick wins.
+
+Q: What about cookie use?
+A: Cookies are used for site enhancement and analytics.
+
+Q: Where to read about cookie use?
+A: In the website's Privacy Policy.
+
+Q: Funding Pips' base and mission?
+A: Based in Dubai, aiming to provide the best services for retail traders.
+
+Q: Master account profit target?
+A: No set target.
+
+Q: Master account risk limits?
+A: 5% daily, 10% maximum loss limit.
+
+Q: Maximum Daily Loss calculation?
+A: Based on the higher of equity or balance at day's start.
+
+Q: What's the Maximum Loss Limit?
+A: Can't drop below 10% of the initial account size.
+
+Q: Master account trade holds?
+A: Allowed for news and weekends.
+
+Q: Trades around high-impact news?
+A: Profits from specific times not counted; closed trades don't lead to violations.
+
+Q: Prohibited activities?
+A: Exploiting MetaTrader inefficiencies, unauthorized account management, or copy trading.
+
+Q: Stance on EAs?
+A: Only trade or risk management EAs allowed.
+
+Q: What is slippage?
+A: Orders filled at the next price when the exact price isn't available.
+
+Q: What increases slippage risk?
+A: Higher lot sizes and volatile markets.
+
+Q: What are Funding Pips' discounts for failing phases?
+A: 10% for failing Phase 1, 15% for Phase 2, and 20% for the Master/Funded level.
+
+Q: Discount code validity and application?
+A: Valid for 7 days, applicable to all account sizes.
